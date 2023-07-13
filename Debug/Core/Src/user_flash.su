@@ -1,0 +1,8 @@
+user_flash.c:161:6:FLASH_If_Init	8	static
+user_flash.c:187:10:WriteDatatoFlash	24	static
+user_flash.c:208:10:FLASH_If_Write	32	static
+user_flash.c:310:10:GetPage	24	static
+user_flash.c:318:11:FLASH_If_Erase	32	static
+user_flash.c:409:22:getNewFirmwareStorageLocation	4	static
+user_flash.c:466:10:flashWriteBootSection	24	static
+user_flash.c:540:10:EraseSinglePage	24	static

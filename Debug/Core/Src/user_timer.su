@@ -1,0 +1,2 @@
+user_timer.c:103:6:HAL_TIM_PeriodElapsedCallback	16	static
+user_timer.c:163:6:HAL_TIM_IC_CaptureCallback	16	static

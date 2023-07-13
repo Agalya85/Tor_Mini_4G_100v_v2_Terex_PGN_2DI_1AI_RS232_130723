@@ -1,0 +1,5 @@
+user_can.c:196:6:canFilterConfig	8	static
+user_can.c:338:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+user_can.c:424:6:HAL_CAN_ErrorCallback	16	static
+user_can.c:467:10:isCommandIdConfigured	16	static
+user_can.c:537:6:parseCanMessageQueue	80	static

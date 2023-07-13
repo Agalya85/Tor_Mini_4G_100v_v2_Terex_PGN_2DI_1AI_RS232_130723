@@ -1,0 +1,10 @@
+payload.c:87:8:getMachineDataString	32	static
+payload.c:290:6:updateCanPayload	32	static
+payload.c:449:6:PaylodTime	16	static
+payload.c:468:6:GPS_SperateString	32	static
+payload.c:608:6:Diagnostic	16	static
+payload.c:614:8:getDiagDataString	32	static
+payload.c:660:6:DiagnosticString	48	static
+payload.c:820:6:CANIDPrase	32	static
+payload.c:833:6:manufacturerDate	32	static
+payload.c:881:6:updateInputVoltage	32	static

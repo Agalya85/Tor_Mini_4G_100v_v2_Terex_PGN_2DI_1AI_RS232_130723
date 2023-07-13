@@ -1,0 +1,3 @@
+UserEeprom.c:56:17:EEPROM_CalcCheckSum	24	static
+UserEeprom.c:71:6:EEPROM_RetriveBuffMemData	32	static
+UserEeprom.c:108:6:EEPROM_WriteBuffMemData	24	static

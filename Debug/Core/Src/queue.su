@@ -1,0 +1,10 @@
+queue.c:51:6:Queue_InitLiveQ	16	static
+queue.c:71:6:Queue_LiveEnequeue	16	static
+queue.c:119:6:Queue_LiveDequeue	16	static
+queue.c:163:10:Queue_IsLiveQueueEmpty	16	static
+queue.c:172:10:Queue_IsLiveQueueFull	16	static
+queue.c:192:6:Queue_InitBuffQ	16	static
+queue.c:212:6:Queue_BuffEnequeue	16	static
+queue.c:259:6:Queue_BuffDequeue	16	static
+queue.c:290:10:Queue_IsBuffQueueEmpty	16	static
+queue.c:298:10:Queue_IsBuffQueueFull	16	static

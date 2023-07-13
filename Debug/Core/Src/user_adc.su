@@ -1,0 +1,2 @@
+user_adc.c:56:6:Adc_FSM	16	static
+user_adc.c:172:6:HAL_ADC_ConvCpltCallback	16	static
